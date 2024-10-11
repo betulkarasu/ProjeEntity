@@ -1,0 +1,2 @@
+C:\Users\betul\source\repos\N_Katmanli_Mimari\LogicDepartman\obj\Debug\LogicDepartman.csproj.AssemblyReference.cache
+C:\Users\betul\source\repos\N_Katmanli_Mimari\LogicDepartman\obj\Debug\LogicDepartman.csproj.CoreCompileInputs.cache

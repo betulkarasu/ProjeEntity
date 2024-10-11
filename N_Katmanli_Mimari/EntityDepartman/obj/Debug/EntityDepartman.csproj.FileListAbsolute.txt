@@ -1,0 +1,6 @@
+C:\Users\betul\source\repos\N_Katmanli_Mimari\EntityDepartman\bin\Debug\EntityDepartman.dll
+C:\Users\betul\source\repos\N_Katmanli_Mimari\EntityDepartman\bin\Debug\EntityDepartman.pdb
+C:\Users\betul\source\repos\N_Katmanli_Mimari\EntityDepartman\obj\Debug\EntityDepartman.csproj.AssemblyReference.cache
+C:\Users\betul\source\repos\N_Katmanli_Mimari\EntityDepartman\obj\Debug\EntityDepartman.csproj.CoreCompileInputs.cache
+C:\Users\betul\source\repos\N_Katmanli_Mimari\EntityDepartman\obj\Debug\EntityDepartman.dll
+C:\Users\betul\source\repos\N_Katmanli_Mimari\EntityDepartman\obj\Debug\EntityDepartman.pdb
